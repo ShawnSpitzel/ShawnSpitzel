@@ -1,5 +1,5 @@
 # Hey, I'm Shawn 👋
-Third-year at the University of Connecticut, passionate about full-stack development, distributed computing, & low-latency programming
+Third-year at the University of Connecticut, passionate about full-stack development, distributed systems, & low-latency programming
 ## 💻 Languages & Technologies:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
