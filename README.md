@@ -7,12 +7,5 @@ Third-year at the University of Connecticut, passionate about backend developmen
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=shawnspitzel&count_private=true&theme=github_dark&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnspitzel&size_weight=0.5&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=github_dark" />
-</a>
 
 
